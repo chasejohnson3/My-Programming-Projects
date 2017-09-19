@@ -1,0 +1,4 @@
+Mono.Samples.Button.ButtonActivity, DroidButton;md5be564a3037b6dcec16e9d78362a885a9.ButtonActivity
+Mono.Samples.Button.ButtonActivity, DroidButton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5be564a3037b6dcec16e9d78362a885a9.ButtonActivity
+Mono.Samples.Button.ButtonActivity;md5be564a3037b6dcec16e9d78362a885a9.ButtonActivity
+mono.samples.button.ButtonActivity;md5be564a3037b6dcec16e9d78362a885a9.ButtonActivity
