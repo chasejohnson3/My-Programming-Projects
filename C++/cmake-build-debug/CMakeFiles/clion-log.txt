@@ -1,1 +1,1 @@
-CMakeLists.txt not found in C:\Users\User\Documents\Programming Projects\C++
+CMakeLists.txt not found in C:\Users\User\Documents\My Programming Projects\C++
